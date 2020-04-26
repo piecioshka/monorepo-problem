@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "name": "monorepo-problem",
+    "version": "1.0.0",
+    "author": "Piotr Kowalski <piecioshka@gmail.com>",
+    "license": "MIT",
+    "workspaces": [
+        "packages/*"
+    ]
+}
